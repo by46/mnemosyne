@@ -21,7 +21,7 @@ download qemu-2.4.0.1.tar.bz2 and qemu-2.4.0.1.tar.bz2.sig
 gpg --verify qemu-2.4.01.tar.bz2.sig qemu-2.4.0.1.tar.bz2
 
 $> gpg: Signature made Wed 23 Sep 2015 06:11:29 AM CST using RSA key ID F108B584
-$> gpg: Can't check signature: No public key
+$> gpg: Can\'t check signature: No public key
 
 gpg --recv-keys F108B584
 
@@ -41,23 +41,22 @@ gpg: binary signature, digest algorithm SHA1
 
 ```
 
-QEMU
+dd
 ---
-``` shell
-$> wget http://wiki.qemu-project.org/download/qemu-2.4.0.1.tar.bz2
+dd if=/dev/zero of=/tmp/tmpfile bs=1024 count=8192
+convert and copy a file
 
-$> sudo yum -y update
+/etc/fstab
+---
+存放文件系统静态信息的文件，当系统启动时，系统会自动读取该文件内容，并且会自动将文件中指定的文件系统挂载到指定目录。该文件中的六个域分别为：<file system>, <mount point>, <type>, <options>, <dump>, <pass>。
 
-$> sudo yum groupinstall "Development Tools"
-
-$> sudo yum install glib2-devel
-
-$> tar -xvf qemu-2.4.0.1.tar.bz2
-
-$> cd qemu-2.4.0.1
-
-$> ./configure
-
-$> make
-
-```
+* file system
+    - 用来指定需要挂载的文件系统的设备名称和块信息，或者是远程的文件系统
+* mount point
+    - 挂载点，把文件系统挂载到该目录下载。对于swap分区，该域应该设置为none，表示没有挂载点。
+* type
+    - 用于指定文件系统的文件类型。linux所支持的类型：adfs, befs, cifs, ext, ext2, ext3, iso9660, kafs, minix, msdos, vfat,umsdos, proc, reiserfs, swap, squashfs, nfs, hpfs, ncpfs, ntfs, nfs, ufs。具体查看系统中支持的文件系统类型可以通过cat /proc/filesystems
+* options
+    - 用来设置选项，用逗号分隔
+* dump
+    - 
