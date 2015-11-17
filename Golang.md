@@ -12,3 +12,8 @@ tools
 debugging
 ---
 GDB
+
+sublime text 2 plugin
+------------------------
+
+GoSublime
