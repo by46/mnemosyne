@@ -59,4 +59,33 @@ convert and copy a file
 * options
     - 用来设置选项，用逗号分隔
 * dump
-    - 
+
+
+grub2
+---
+1. ubuntu
+``` shell
+wget http://mirrors.ustc.edu.cn/gnu/grub/grub-2.00.tar.xz
+wget http://mirrors.ustc.edu.cn/gnu/grub/grub-2.00.tar.xz.sig
+gpg --verify grub-2.00.tar.xz.sig grub-2.00.tar.xz
+gpg --recv-keys <id>
+gpg --verify --verbose grub-2.00.tar.xz.sig grub-2.00.tar.xz
+
+sudo apt-get install bison flex libdevmapper-dev ttf-dejavu
+
+```
+
+2. CentOS
+``` shell
+wget http://mirrors.ustc.edu.cn/gnu/grub/grub-2.00.tar.xz
+wget http://mirrors.ustc.edu.cn/gnu/grub/grub-2.00.tar.xz.sig
+gpg --verify grub-2.00.tar.xz.sig grub-2.00.tar.xz
+gpg --recv-keys <id>
+gpg --verify --verbose grub-2.00.tar.xz.sig grub-2.00.tar.xz
+
+sudo yum install device-mapper
+
+make
+
+
+```
