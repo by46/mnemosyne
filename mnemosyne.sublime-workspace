@@ -1,0 +1,1214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Re",
+				"ReadAt	n int, err error ƒ"
+			],
+			[
+				"Dat",
+				"Data	[]byte ν"
+			],
+			[
+				"B",
+				"BodyLength	uint32 ν"
+			],
+			[
+				"Mi",
+				"MimeSize	uint8 ν"
+			],
+			[
+				"Name",
+				"Name	[]byte ν"
+			],
+			[
+				"Rea",
+				"ReadNeedleHeader	n *Needle, bodyLength uint32, err error ƒ"
+			],
+			[
+				"Ver",
+				"Version	uint8 ʈ"
+			],
+			[
+				"buff",
+				"buffer2	[]byte ν"
+			],
+			[
+				"D",
+				"DiskSize	int64 ƒ"
+			],
+			[
+				"SeH",
+				"SetHasName	 ƒ"
+			],
+			[
+				"Set",
+				"SetHasMime	 ƒ"
+			],
+			[
+				"New",
+				"NewBuffer	*bytes.Buffer ƒ"
+			],
+			[
+				"server",
+				"serverConf	*util.ServerConfig ν"
+			],
+			[
+				"Resp",
+				"RespondError	 ƒ"
+			],
+			[
+				"Res",
+				"RespondServerity	 ƒ"
+			],
+			[
+				"wr",
+				"Write	int, error ƒ"
+			],
+			[
+				"Mod",
+				"ModePerm	 Ɩ"
+			],
+			[
+				"MKdi",
+				"MkdirAll	error ƒ"
+			],
+			[
+				"HTTP",
+				"HTTPContentRange	struct ʈ"
+			],
+			[
+				"content",
+				"content	*util.HTTPContentRange ν"
+			],
+			[
+				"Op",
+				"Open	*os.File, error ƒ"
+			],
+			[
+				"de",
+				"DeleteVolume	e error ƒ"
+			],
+			[
+				"F",
+				"fileHandler	 ƒ"
+			],
+			[
+				"N",
+				"NotFound	 ƒ"
+			],
+			[
+				"StatusBad",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"s",
+				"Shutdown	 ƒ"
+			],
+			[
+				"cabi",
+				"cabinetServer	*CabinetServer ν"
+			],
+			[
+				"re",
+				"Remove	error ƒ"
+			],
+			[
+				"w",
+				"Write	int, error ƒ"
+			],
+			[
+				"testing",
+				"testingserver	*httptest.Server ν"
+			],
+			[
+				"Hand",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"Byte",
+				"BytesToUint64	v uint64 ƒ"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"read",
+				"readOnly	bool ν"
+			],
+			[
+				"De",
+				"Destroy	err error ƒ"
+			],
+			[
+				"Vol",
+				"VolumeId	uint32 ʈ"
+			],
+			[
+				"Wr",
+				"WriteWithRange	size uint32, err error ƒ"
+			],
+			[
+				"NewRe",
+				"NewReplicaPlacementFromString	*ReplicaPlacement, error ƒ"
+			],
+			[
+				"volu",
+				"volumeFile	*os.File ν"
+			],
+			[
+				"vol",
+				"volumeFile	*os.File ν"
+			],
+			[
+				"tmpfile",
+				"tmpfile	*os.File ν"
+			],
+			[
+				"tmpfil",
+				"tmpfile	*os.File ν"
+			],
+			[
+				"Fa",
+				"Fatalf	 ƒ"
+			],
+			[
+				"tmpfle",
+				"tmpfile	*os.File ν"
+			],
+			[
+				"Del",
+				"deleteRange	error ƒ"
+			],
+			[
+				"ac",
+				"actualVolume	[]byte ν"
+			],
+			[
+				"ex",
+				"expectVolume	[]byte ν"
+			],
+			[
+				"App",
+				"AppendRange	size uint32, err error ƒ"
+			],
+			[
+				"O_R",
+				"O_RDWR	 Ɩ"
+			],
+			[
+				"Ope",
+				"OpenFile	*os.File, error ƒ"
+			],
+			[
+				"O_O",
+				"O_WRONLY	 Ɩ"
+			],
+			[
+				"Fat",
+				"Fatalf	 ƒ"
+			],
+			[
+				"new",
+				"NewCRC2	CRC ν"
+			],
+			[
+				"NewC",
+				"NewCRC2	CRC ν"
+			],
+			[
+				"Data",
+				"DataSize	uint32 ν"
+			],
+			[
+				"MIm",
+				"MimeSize	uint8 ν"
+			],
+			[
+				"Mim",
+				"Mime	[]byte ν"
+			],
+			[
+				"Da",
+				"Data	[]byte ν"
+			],
+			[
+				"Mime",
+				"MimeSize	uint8 ν"
+			],
+			[
+				"need",
+				"needlesize	uint32 ν"
+			],
+			[
+				"uint",
+				"Uint64toBytes	 ƒ"
+			],
+			[
+				"uin",
+				"Uint64toBytes	 ƒ"
+			],
+			[
+				"S",
+				"Start	int64 ν"
+			],
+			[
+				"build",
+				"buildResponseFromInfo	 ƒ"
+			],
+			[
+				"Spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"resp",
+				"respondServerity	 ƒ"
+			],
+			[
+				"he",
+				"Header	http.Header ƒ"
+			],
+			[
+				"Hea",
+				"Header	map[string][]string ʈ"
+			],
+			[
+				"Empty",
+				"EmptyResponseWriter	struct ʈ"
+			],
+			[
+				"Fo",
+				"FormatUint	string ƒ"
+			],
+			[
+				"filename",
+				"filename	string ν"
+			],
+			[
+				"mim",
+				"mimeType	string ν"
+			],
+			[
+				"Type",
+				"TypeByExtension	string ƒ"
+			],
+			[
+				"fa",
+				"Fatalf	 ƒ"
+			],
+			[
+				"fi",
+				"FileEntity	struct ʈ"
+			],
+			[
+				"Log",
+				"Logf	 ƒ"
+			],
+			[
+				"filena",
+				"filename	string ν"
+			],
+			[
+				"Conte",
+				"contentRange	*HTTPContentRange ν"
+			],
+			[
+				"cont",
+				"contentRange	*HTTPContentRange ν"
+			],
+			[
+				"con",
+				"contentRange	*HTTPContentRange ν"
+			],
+			[
+				"http",
+				"HTTPContentRange	struct ʈ"
+			],
+			[
+				"Par",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"HTT",
+				"HTTPContentRange	struct ʈ"
+			],
+			[
+				"data",
+				"Data	[]byte ν"
+			],
+			[
+				"Fp",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"StatusNo",
+				"StatusNotImplemented	 Ɩ"
+			],
+			[
+				"Bad",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"Response",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"StatusNot",
+				"StatusNotImplemented	 Ɩ"
+			],
+			[
+				"wri",
+				"Write	int, error ƒ"
+			],
+			[
+				"parse",
+				"parseRange3	[]httpRange, error ƒ"
+			],
+			[
+				"multi",
+				"multipartWriter	*multipart.Writer ν"
+			],
+			[
+				"conten",
+				"contentlength	int64 ν"
+			],
+			[
+				"mu",
+				"multipart	 package ρ"
+			],
+			[
+				"htt",
+				"httpRange	struct ʈ"
+			],
+			[
+				"pr",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"mul",
+				"multipartWriter	*multipart.Writer ν"
+			],
+			[
+				"Need",
+				"NeedleHeaderSize	 Ɩ"
+			],
+			[
+				"By",
+				"BytesToUint32	v uint32 ƒ"
+			],
+			[
+				"Fla",
+				"FlagPartition	 Ɩ"
+			],
+			[
+				"H",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"StatusB",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"par",
+				"parseFileName	filename, ext string ƒ"
+			],
+			[
+				"NewVol",
+				"NewVolumeId	storage.VolumeId, error ƒ"
+			],
+			[
+				"Pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"set",
+				"SetHasLastModifiedDate	 ƒ"
+			],
+			[
+				"setHas",
+				"SetHasName	 ƒ"
+			],
+			[
+				"cab",
+				"cabinetServer	*CabinetServer ν"
+			],
+			[
+				"P",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Ft",
+				"Fatalf	 ƒ"
+			],
+			[
+				"needle",
+				"needle2	*Needle ν"
+			],
+			[
+				"needl",
+				"needle2	*Needle ν"
+			],
+			[
+				"log",
+				"Logf	 ƒ"
+			],
+			[
+				"neeld",
+				"needle2	*Needle ν"
+			],
+			[
+				"Mo",
+				"modifiedTime	time.Time ν"
+			],
+			[
+				"l",
+				"Logf	 ƒ"
+			],
+			[
+				"Ve",
+				"Version	uint8 ʈ"
+			],
+			[
+				"uti",
+				"Uint32toBytes	 ƒ"
+			],
+			[
+				"u",
+				"Uint8toBytes	 ƒ"
+			],
+			[
+				"tail",
+				"taillength	uint8 ν"
+			],
+			[
+				"Nee",
+				"NeedleHeaderSize	 Ɩ"
+			],
+			[
+				"Needle",
+				"NeedlePaddingSize	 Ɩ"
+			],
+			[
+				"M",
+				"Mime	[]byte ν"
+			],
+			[
+				"Un",
+				"Uint16toBytes	 ƒ"
+			],
+			[
+				"Uin",
+				"Uint32toBytes	 ƒ"
+			],
+			[
+				"nee",
+				"NeedlePaddingSize	 Ɩ"
+			],
+			[
+				"Volu",
+				"VolumeId	uint32 ʈ"
+			],
+			[
+				"b",
+				"BytesToUint32	v uint32 ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "LICENSE",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: MIT",
+				"Licence Snippet: MIT Licence [Header] [Full Text]"
+			],
+			[
+				"Snippet: mit",
+				"Licence Snippet: MIT Licence [Header] [Full Text]"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"MIT",
+				"Licence Snippet: MIT Licence [Header] [Full Text]"
+			],
+			[
+				"Snippet: ",
+				"Snippet: commet"
+			],
+			[
+				"Snippet: m",
+				"Licence Snippet: MIT Licence [Header] [Full Text]"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"hy",
+				"SublimeREPL: Hy"
+			],
+			[
+				"erlan",
+				"SublimeREPL: Erlang"
+			],
+			[
+				"repl",
+				"SublimeREPL: Elixir"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 418.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Git/mnemosyne"
+	],
+	"file_history":
+	[
+		"/D/Git/mnemosyne/sublime.md",
+		"/D/Git/mnemosyne/Linux/mysql.md",
+		"/D/Git/mnemosyne/Golang.md",
+		"/D/Git/cabinet_client/src/cabinet/http.go",
+		"/D/Git/cabinet/src/config.toml",
+		"/D/Git/cabinet/src/storage/store.go",
+		"/D/Git/cabinet/src/testing.go",
+		"/D/Git/cabinet/src/model/message.go",
+		"/D/by46/Software/tools/tcpTrace081.rar",
+		"/D/Git/cabinet/cabinet.sublime-project",
+		"/D/Git/cabinet/src/glog/glog_file.go",
+		"/D/Git/cabinet/src/cabinet.go",
+		"/D/Git/cabinet/src/server/signal_handling.go",
+		"/D/Git/cabinet/src/glog/glog.go",
+		"/D/Git/cabinet/.gitignore",
+		"/C/Users/by46/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/D/opt/cabinet/log/error.log",
+		"/D/Git/cabinet/cabinet.sublime-workspace",
+		"/C/Users/by46/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/D/Git/cabinet/src/storage/needle_test.go",
+		"/D/Git/cabinet/src/model/config.go",
+		"/D/Git/cabinet_client/.gitignore",
+		"/D/Git/cabinet_client/src/main.go",
+		"/D/Git/cabinet_client/src/config.go",
+		"/D/Git/cabinet_client/Dockerfile",
+		"/D/Git/cabinet_client/cabinet.sublime-project",
+		"/D/Git/cabinet_client/README.md",
+		"/D/Git/cabinet/src/server/cabinet_server.go",
+		"/D/Git/cabinet/README.md",
+		"/D/Git/cabinet/src/storage/volume_vacuum.go",
+		"/D/Git/cabinet/src/storage/volume.go",
+		"/D/Git/cabinet/src/storage/needle_read_write.go",
+		"/D/Git/cabinet/src/util/config.go",
+		"/D/Git/cabinet/src/server/cabinet_server_handlers_test.go",
+		"/D/Git/cabinet/src/server/cabinet_server_handlers.go",
+		"/D/Git/cabinet/src/server/cabinet_server_handlers_admin.go",
+		"/D/Git/cabinet/Dockerfile",
+		"/D/Git/cabinet/src/server/cabinet_server_handlers_admin_test.go",
+		"/D/Git/cabinet/doc/README.md",
+		"/D/Git/cabinet/src/util/parse_test.go",
+		"/D/Git/cabinet/src/util/parse.go",
+		"/D/Git/cabinet/src/github.com/koding/multiconfig/multiconfig.go",
+		"/D/Git/cabinet/src/testdata/testing_102.idx",
+		"/D/Git/cabinet/src/storage/crc_test.go",
+		"/D/Git/cabinet/src/testdata/testing_100.idx",
+		"/D/Git/cabinet/src/server/common.go",
+		"/D/Git/cabinet/src/server/common_test.go",
+		"/D/Git/cabinet/src/server/cabinet_server_handlers_helper.go",
+		"/D/Git/cabinet/src/server/cabinet_server_handlers_testing.go",
+		"/D/Git/cabinet/src/server/cabinet_server_handlers_helper_test.go",
+		"/D/Git/cabinet/src/storage/volume_sync.go",
+		"/D/Git/cabinet/src/util/http_util.go",
+		"/D/Git/cabinet/src/util/http_util_test.go",
+		"/D/Go/src/net/http/server.go",
+		"/D/Git/cabinet/src/util/net_timeout.go",
+		"/D/Git/cabinet/src/storage/store_test.go",
+		"/D/Git/cabinet/src/util/bytes_test.go",
+		"/D/Git/cabinet/src/util/config_test.go",
+		"/D/Git/cabinet/src/storage/testing1_20.dat",
+		"/D/Git/cabinet/src/util/path_util.go",
+		"/D/Git/cabinet/src/util/path_util_test.go",
+		"/D/Git/cabinet/src/storage/needle_read_write_range.go",
+		"/D/Git/cabinet/src/storage/volume_test.go",
+		"/D/Git/cabinet/src/storage/volume_id.go",
+		"/D/Git/cabinet/src/storage/testing_1.dat",
+		"/D/Git/cabinet/src/storage/store_range.go",
+		"/D/Git/cabinet/src/storage/crc.go",
+		"/D/Git/cabinet/src/storage/hello_1.idx",
+		"/D/Git/gateway_sham/gateway_sham/start.bat",
+		"/D/Git/gateway_sham/gateway_sham/rel/vm.args",
+		"/D/Git/gateway_sham/.gitignore",
+		"/D/Git/cabinet/doc/apis.md",
+		"/D/Git/cabinet/src/storage/volume_range.go",
+		"/D/Git/cabinet/src/storage/needle.go",
+		"/D/Git/cabinet/src/storage/replica_placement.go",
+		"/D/Git/gateway_sham/rel/vm.args",
+		"/D/Git/neweggdbs_service_gateway/code/gateway_service-1.0/src/awz.erl",
+		"/D/Git/neweggdbs_service_gateway/code/gateway_service-1.0/src/gateway_service_web.erl",
+		"/D/Git/cabinet/src/storage/volume_super_block.go",
+		"/D/Git/cabinet/src/storage/needle_map.go",
+		"/D/Git/cabinet/src/storage/compact_map_perf_test.go",
+		"/D/Git/cabinet/src/util/file_util.go",
+		"/D/Git/cabinet/src/util/concurrent_read_map.go",
+		"/D/Git/cabinet/doc/structure.md",
+		"/D/Git/seaweedfs/go/stats/stats.go",
+		"/D/Git/seaweedfs/go/weed/weed_server/common.go",
+		"/D/Go/src/io/io.go",
+		"/D/Git/cabinet/doc/flow.md",
+		"/D/Git/seaweedfs/go/stats/duration_counter.go",
+		"/D/Git/seaweedfs/go/weed/weed_server/raft_server_handlers.go",
+		"/D/Git/seaweedfs/go/weed/volume.go",
+		"/D/Git/seaweedfs/go/weed/command.go",
+		"/D/Git/seaweedfs/go/util/config.go",
+		"/D/Git/seaweedfs/go/weed/weed_server/volume_server.go",
+		"/D/Git/seaweedfs/go/weed/weed_server/volume_server_handlers_admin.go",
+		"/D/Git/cabinet/data/hello_1.dat",
+		"/D/Git/cabinet/hello_1 - Copy.dat",
+		"/D/Git/cabinet/data/2.dat",
+		"/D/Git/cabinet/data/2.idx",
+		"/C/Users/by46/Desktop/build",
+		"/D/Git/cabinet/src/storage/file_id.go",
+		"/C/Users/by46/Desktop/testing.py",
+		"/D/Git/cabinet/src/storage/compact_map.go",
+		"/D/Git/cabinet/src/storage/needle_map_memory.go",
+		"/D/Go/src/strings/example_test.go",
+		"/D/Go/src/strings/export_test.go",
+		"/D/Go/src/sort/sort_test.go",
+		"/D/Go/src/strings/strings_test.go",
+		"/D/Go/src/strings/strings.s",
+		"/C/Users/by46/Downloads/下载",
+		"/C/Users/by46/Desktop/hello.hy",
+		"/D/Git/cabinet/src/storage/volume_version.go",
+		"/D/Git/cabinet/src/storage/compact_map_test.go",
+		"/D/Git/cabinet/src/security/guard.go",
+		"/D/Git/cabinet/src/operation/delete_content.go",
+		"/D/Git/cabinet/src/operation/submit.go",
+		"/D/Git/cabinet/src/weed/weed_server/volume_server_handlers_read.go",
+		"/D/Git/cabinet/src/weed/weed_server/master_server.go",
+		"/D/Git/cabinet/src/operation/system_message.pb.go",
+		"/D/Git/cabinet/src/weed/weed_server/volume_server_handlers_helper.go",
+		"/C/Users/by46/AppData/Roaming/Sublime Text 3/Packages/User/GoGdb.sublime-settings",
+		"/D/Git/cabinet/src/cabinet_server_handlers.go",
+		"/D/Git/cabinet/src/cabinet_server.go",
+		"/D/Git/cabinet/src/filer/embedded_filer/directory_in_map.go",
+		"/D/Git/cabinet/src/weed/weed_server/common.go",
+		"/D/Git/cabinet/src/weed/weed_server/volume_server_handlers_write.go",
+		"/D/Git/cabinet/src/weed/weed_server/filer_server_handlers.go",
+		"/D/Git/cabinet/src/weed/signal_handling.go"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\server",
+			"D:\\Git\\cabinet\\src\\glog",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\github.com\\koding\\multiconfig",
+			"D:\\Git\\cabinet\\src\\server",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\server",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\server",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\seaweedfs\\go\\weed\\weed_server",
+			"D:\\Git\\seaweedfs\\go\\stats",
+			"D:\\Git\\seaweedfs\\go\\weed",
+			"D:\\Git\\seaweedfs\\go\\weed\\weed_server",
+			"D:\\Git\\seaweedfs\\go\\stats",
+			"D:\\Git\\seaweedfs\\go\\weed\\weed_server",
+			"D:\\Git\\seaweedfs\\go\\weed",
+			"D:\\Git\\seaweedfs\\go\\weed\\weed_server",
+			"D:\\Git\\seaweedfs\\go",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\server",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\server",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\operation",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\operation",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\weed",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\weed\\weed_server",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\topology",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\weed",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\weed\\weed_server",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src\\weed",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\weed",
+			"D:\\Git\\cabinet\\src\\weed\\weed_server",
+			"D:\\Git\\cabinet\\src\\weed",
+			"D:\\Git\\cabinet\\src\\weed\\weed_server",
+			"D:\\Git\\cabinet\\src\\weed",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\cabinet\\src",
+			"D:\\Git\\cabinet\\src\\storage",
+			"D:\\Git\\seaweedfs\\go",
+			"D:\\Git\\seaweedfs\\go\\storage",
+			"D:\\Git\\seaweedfs\\go",
+			"D:\\Git\\seaweedfs\\go\\weed",
+			"D:\\Git\\cabinet\\src\\github.com\\koding",
+			"D:\\Git\\rabbitmq-server\\src",
+			"D:\\Git\\rabbitmq-server\\include",
+			"D:\\Git\\rabbitmq-server\\src",
+			"D:\\Git\\gateway_sham\\src",
+			"D:\\Git\\gateway_sham\\deps\\mochiweb\\src",
+			"D:\\Git\\gateway_sham\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\cabinet\\deps\\ehaystack\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\cabinet\\deps\\ehaystack\\src",
+			"D:\\Git\\gateway_sham\\src",
+			"D:\\Git\\ddrt\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\mochiweb",
+			"D:\\Git\\mochiweb\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\cabinet\\deps\\ehaystack\\src",
+			"D:\\Git\\cabinet\\deps\\cowboy\\src",
+			"D:\\Git\\ehaystack\\src",
+			"D:\\Git\\cabinet\\deps\\ranch\\src",
+			"D:\\Git\\ehaystack\\src",
+			"D:\\Git\\mnemosyne\\deps\\ranch\\src",
+			"D:\\Git\\mnemosyne\\deps\\cowboy\\src",
+			"D:\\Git\\ehaystack\\src",
+			"D:\\Git\\cabinet\\deps\\ehaystack\\src",
+			"D:\\Git\\bitcask\\src",
+			"D:\\Git\\dfis.v3\\deps\\ehaystack\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\dfis.v3\\deps\\haystack\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\dfis.v3\\deps\\neg_hydra\\deps\\haystack\\src",
+			"D:\\Git\\bitcask\\src",
+			"D:\\Git\\bitcask\\c_src",
+			"D:\\Git\\bitcask\\src",
+			"D:\\Git\\neweggdbs_service_cloud_search\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\deps\\erlcloud\\src",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\deps\\poolboy\\src",
+			"D:\\Git\\neweggdbs_service_cloud_search\\src",
+			"D:\\Git\\dfis\\src",
+			"D:\\Git\\neweggdbs_service_cloud_search\\src",
+			"D:\\Git\\neweggdbs_service_cloud_search\\deps\\neg_hydra\\deps\\erlcloud\\src",
+			"D:\\Git\\neweggdbs_service_cloud_search\\src",
+			"C:\\Users\\by46\\Downloads\\confd-0.9.0",
+			"D:\\Git\\neweggdbs_service_gateway\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\neweggdbs_webportal_eip\\code\\NeweggBox\\app\\scripts\\services",
+			"D:\\Git\\neweggdbs_service_download_folder\\code\\gateway_service-1.0\\src",
+			"D:\\Git\\neweggdbs_webportal_eip\\code\\NeweggBox\\app",
+			"D:\\Git\\neweggdbs_service_metadata_eip\\code\\metadata_service-1.0\\src",
+			"D:\\by46\\work\\Learn\\linux-0.11",
+			"D:\\Git\\neweggdbs_service_storage_eip\\code\\dfis-1.0\\src",
+			"D:\\Git\\rebar\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SendHeartbeatToMaster",
+			"writeRange",
+			"WriteWithRange",
+			"uploadRange",
+			"BuildHeartbeat",
+			"SendHeartbeatToMaster",
+			"OnInterrupt",
+			"fatalf",
+			"loggingT",
+			"logging",
+			"Fatalf",
+			"cabinet",
+			"volumeSizeLimit",
+			"No more free space left",
+			"ReadNeedleBody",
+			"ScanVolumeFile",
+			"ReadNeedleHeader",
+			"hello11123232188343243kl2l3l432",
+			"cabinetServer",
+			"reflect",
+			"AddVolume",
+			"NewCabinetServer",
+			"uploadRange",
+			"Content-Range",
+			"uploadRange",
+			"uploadHandler",
+			"parseFileEntity",
+			"uploadHandler",
+			"uploadRange",
+			"ParseHTTPContentRange",
+			"HTTPContentRange",
+			"TestFileHandlerUploadRange",
+			" ",
+			"Content-Type",
+			"X-Cabinet-FileName",
+			"parseFileEntity",
+			"X-Cabinet-FileName",
+			"buildResponseFromInfo",
+			"TmpFileHeaderSize",
+			"create",
+			"infoHandler",
+			"Etag(",
+			"unix",
+			"statusHandler2",
+			"BuildHeartbeat",
+			"addVolume",
+			"RespondServerity",
+			"countingWriter",
+			"respondJson",
+			"trySynchronizing",
+			"GetUrlStream",
+			"Serve(",
+			"handler",
+			"Serve(",
+			"Serve",
+			"GetUrlStream",
+			"PostBytes",
+			"buildResponseFromInfo",
+			"Range()",
+			"Range",
+			"Uint64toBytes",
+			"1_1.partition",
+			"dataFileAccessLock",
+			"partition",
+			"10",
+			"}\n",
+			"seekPosition",
+			"writeRange",
+			"WriteWithRange",
+			"writeRange2",
+			"Append2",
+			"needlesize",
+			"DeepEqual",
+			"Append",
+			"uploadRange",
+			"http.StatusOK",
+			"Etag()",
+			"ReadHeader",
+			"readNeedleInfo",
+			"ReadVolumeNeedleHeader",
+			"NewNeedle",
+			"util.Post(",
+			"NewVolume",
+			"load(",
+			"ReplicaPlacement",
+			"maybeWriteSuperBlock",
+			"AddVolume",
+			"SuperBlock",
+			"NewVolume",
+			"addVolume",
+			"NeedleMapType",
+			"load",
+			"DeleteCollection",
+			"ParseUint64",
+			"Get",
+			"initMapEntry",
+			"TestParseFileEntity",
+			"EOF",
+			"statsCounterHandler",
+			"NewServerStats",
+			"serverStats",
+			"statsCounterHandler",
+			"statsMemoryHandler",
+			"writeJson",
+			"writeJsonQuiet",
+			"statsDiskHandler",
+			"NewDurationCounter",
+			"NewServerStats",
+			"serverStats",
+			"statsCounterHandler",
+			"statusHandler",
+			"findMaster",
+			"pulseSeconds",
+			"Port",
+			"pulseSeconds",
+			"SetMasterNode",
+			"GetMasterNode",
+			"Command",
+			"Config",
+			"NewNeedle",
+			"error",
+			"var(",
+			"uploadHandler",
+			"ParseNeedleHeader",
+			"glog",
+			"ReadHeader",
+			"readNeedleInfo",
+			"downloadRange"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"needle.",
+			"request.",
+			"writer.",
+			"",
+			"gateway",
+			"_Format",
+			"<",
+			"",
+			"ehaystack_volume",
+			"term",
+			"fd",
+			" ",
+			".",
+			" ",
+			"",
+			",",
+			"",
+			"gateway_service_log:warning",
+			"gateway_service_log:debug",
+			"gateway_service_log:info",
+			"gateway_service_log:error",
+			"beans",
+			"beams"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "LICENSE",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://D:\\Git\\cabinet\\src":
+	{
+		"height": 187.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mnemosyne.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
