@@ -20,3 +20,16 @@ Linux update
 3. make 
 4. make modules_install install
 5. reboot
+
+
+init
+===========
+```shell
+
+sudo yum -y update
+sudo yum groupinstall "Development tools"
+
+sudo yum whatprovides netstat
+sudo yum install net-tools
+
+```

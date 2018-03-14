@@ -2,9 +2,6 @@ installation
 ===========
 
 prerequisite
-<<<<<<< HEAD
----------------
-=======
 --------------
 
 ```shell

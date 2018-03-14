@@ -21,3 +21,8 @@ sudo service jenkins start/stop/restart
 sudo chkconfig jenkins on
 
 ```
+
+插件
+----------------------
+1. Environment Inject
+2. 

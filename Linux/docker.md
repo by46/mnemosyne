@@ -115,4 +115,13 @@ shell 514/tcp cmd
 > # build linux kernel
 > cp arch/x86_64/boot/bzImage rootfs/boot
 > cp initrd rootfs/boot
+> 
+```
+
+
+docker api
+----------------------
+```shell
+sudo docker run -t -i -d -v /var/run/:/var/run/:rw -v /opt/kit/docker/:/opt/kit/docker/:rw --net=host --name=dockerapi --restart=always docker.neg/dockerapi:2.1.1
+
 ```
